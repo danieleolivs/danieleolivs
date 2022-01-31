@@ -1,10 +1,12 @@
-:wave: Hello, World!
+## :wave: Hello, World! </br>
 
-### Aprendendo
+Me chamo Daniele, atualmente estou aprendendo sobre desenvolvimento web (HTML, CSS e JavaScript) e também buscando entender React e NodeJs. Nas horas vagas tento escrever sobre programação e falo sobre livros.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+### 📖 Aprendendo
 
-### Estatísticas
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>           
+
+### 🗂 Estatísticas
 
 <div>
 <a href="https://github.com/DanieleOliveira1">
