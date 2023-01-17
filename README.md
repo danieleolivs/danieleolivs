@@ -1,7 +1,5 @@
 # :wave: Hello, World! </br>
 
-Me chamo Daniele, atualmente estou aprendendo sobre desenvolvimento web (HTML, CSS e JavaScript) e também buscando entender React e NodeJs. Nas horas vagas tento escrever sobre programação e falo sobre livros.
-
 ## 📖 Conhecimentos + aprendendo 
 
 <div>
